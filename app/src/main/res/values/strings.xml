@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Image</string>
+    <string name="pinguins">
+        A sua morfologia, em geral, pouco varia, com forma e estrutura corporal muito semelhante, adaptadas para nadar e mergulhar. Seus corpos são aerodinâmicos e suas asas são modificadas para formar nadadeiras rígidas e planas, que promovem uma boa propulsão no nado.[4] Variam, entretanto em tamanho, desde Eudyptula minor com 40 cm e 1,1 kg, até Aptenodytes forsteri com 115 cm e mais de 30kg.[4] Além disso, as suas plumagens são semelhantes, caracterizadas por partes pretas e brancas, exceto em relação à cor e ao padrão de plumagem da cabeça, que confere uma das principais diferenças entre as espécies. Algumas espécies têm cristas e plumas variadas no topo da cabeça (Eudyptes), outras possuem manchas auriculares (Aptenodytes), enquanto algumas possuem um padrão de faixas pretas e brancas (Spheniscus).[4] Os adultos se alimentam no mar, capturando zooplâncton, peixes pequenos e lulas, enquanto os filhotes são alimentados diretamente por regurgitação.[1] Por sua vez, são vítimas da predação de orcas e focas-leopardo.
+
+Em relação à conservação, os pinguins possuem uma situação delicada devido à ações humanas, especialmente em relação à mudança climática e à perda de habitat. De modo geral, espécies estão cada vez mais ameaçadas e a preocupação quanto ao ecossistema ao qual eles pertencem têm aumentado.[3]
+
+O nome "pinguim" vem de uma outra ave, que habitava as regiões do Ártico e que foi extinta pela ação do homem, o arau-gigante (Pinguinus impennis). Quando os exploradores europeus descobriram no hemisfério Sul as aves conhecidas hoje como pinguins, eles notaram a aparência muito similar ao arau-gigante, ou mesmo se confundindo com os araus, e as batizaram com esse nome, que persiste até a atualidade. Apesar de parecidos, araus e pinguins não têm nenhum parentesco próximo. O termo "Pinguim" é originário do galês "pen gwyn", o antigo nome popular dos araus-gigantes nas ilhas Britânicas.
+
+Os primeiros pinguins apareceram no registo geológico do Eocénico. Os pinguins constituem a família Spheniscidae e a ordem Sphenisciformes (de acordo com a taxonomia de Sibley-Ahlquist, fariam parte da ordem Ciconiformes). É uma ave marinha e nadadora, chegando a nadar com uma velocidade de até 45 km/h, passando a maior parte do tempo na água.
+    </string>
+
+    <string name="hello">Olá Mundo</string>
+</resources>
